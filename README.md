@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lama-k
+- 👋 Hi, I’m @lama-k Moïse
 - 👀 I’m interested in solidity developpement 
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
